@@ -4,7 +4,7 @@ import { login, logout } from './utils'
 import './global.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { Container, Navbar, NavDropdown, Nav } from 'react-bootstrap'
-import Home from './components/Home'
+import Home from './Home'
 
 import {
   BrowserRouter as Router,
